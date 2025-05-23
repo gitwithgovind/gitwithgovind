@@ -6,9 +6,9 @@ I'm passionate about growing in my career, continuously acquiring new technical 
 - 📚 Things I’ve learned while juggling work, self-learning, and debugging  
 - 🌱 Bits of inspiration for anyone trying to grow in their respective fields
 
-Whether you're here to find useful code, insights, or just see how someone is figuring it all out—you’re in the right place!
+Whether you're here to find useful code, insights, or just see how someone is figuring it all out —you’re in the right place!
 
-**Let’s connect, learn, and grow together—one repo at a time.**  
+**_Let’s connect, learn, and grow together—one repo at a time._**  
 You bring the snacks, I’ll bring the code 🍪💻
 
 ## 🌐Socials:
