@@ -1,4 +1,4 @@
-## 👋Hey there, I'm so glad you're here!
+## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hey there, Govind Singh here. I'm so glad you're here!
 Welcome to my little space of GitHub!
 
 I'm passionate about growing in my career, continuously acquiring new technical skills, and making complex tasks a *little* less overwhelming (and a lot more fun). Here, you'll find:
